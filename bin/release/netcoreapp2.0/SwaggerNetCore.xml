@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerNetCore</name>
+    </assembly>
+    <members>
+        <member name="M:SwaggerNetCore.Controllers.ValuesController.Get">
+             <summary>
+             Gets all values.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET: localhost:5000/api/values
+            
+             </remarks>
+        </member>
+        <member name="M:SwaggerNetCore.Controllers.ValuesController.Get(System.Int32)">
+             <summary>
+             gets a specific value.
+             </summary>
+             <param name="id"></param>
+             <remarks>
+             Sample request:
+            
+                 GET: localhost:5000/api/values/1
+            
+             </remarks>
+        </member>
+        <member name="M:SwaggerNetCore.Controllers.ValuesController.Post(SwaggerNetCore.Models.Value)">
+             <summary>
+             Inserts specific value.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST: localhost:5000/api/values
+                 {
+                     "Id": 1,
+                     "Name": "1",
+                     "Description": "1"
+                 }
+            
+             </remarks>
+             <returns>A newly created Value</returns>
+             <response code="201">Returns the newly created value</response>
+             <response code="400">If the value is null</response>            
+        </member>
+        <member name="M:SwaggerNetCore.Controllers.ValuesController.Put(SwaggerNetCore.Models.Value)">
+             <summary>
+             Updates specific value.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST: localhost:5000/api/values
+                 {
+                     "Id": 1,
+                     "Name": "1",
+                     "Description": "1"
+                 }
+            
+             </remarks>
+             <returns>An updated Value</returns>
+             <response code="201">Returns the updated value</response>
+             <response code="400">If the value is null</response>            
+        </member>
+        <member name="M:SwaggerNetCore.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific value.
+            </summary>
+            <param name="id"></param> 
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,5 @@
+C:\Estudo\SwaggerNetCore
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=SwaggerNetCore
+--content-root=C:\Estudo\SwaggerNetCore
+--file=

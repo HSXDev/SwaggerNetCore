@@ -1,0 +1,13 @@
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.deps.json
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.runtimeconfig.json
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.runtimeconfig.dev.json
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.dll
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.pdb
+C:\Estudo\SwaggerNetCore\bin\Debug\netcoreapp2.0\SwaggerNetCore.xml
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.csprojAssemblyReference.cache
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.csproj.CoreCompileInputs.cache
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.AssemblyInfoInputs.cache
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.AssemblyInfo.cs
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.dll
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.xml
+C:\Estudo\SwaggerNetCore\obj\Debug\netcoreapp2.0\SwaggerNetCore.pdb
